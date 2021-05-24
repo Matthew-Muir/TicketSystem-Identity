@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>aspnet-TicketSystem-06370F91-4AA6-4DE9-89FC-47AEEC9FE772</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="5.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.6" />
+  </ItemGroup>
+
+</Project>
